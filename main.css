@@ -463,6 +463,8 @@ a.button.wide {
   font-weight: 700;
   font-display: auto;
   font-family: monospace, monospace;
+  color: orange;
+  font-weight: bold;
 }
 .logo img {
   height: 44px;
@@ -527,6 +529,7 @@ a.button.wide {
   padding: 0 15px;
   font-size: 1rem;
   list-style: none;
+  font-weight: bold;
 }
 .menu__inner li {
   margin: 0 12px;
@@ -733,6 +736,8 @@ blockquote {
   border-left: 2px solid;
   margin: 40px;
   padding: 10px 20px;
+  color: orange;
+  font-weight: bold;
 }
 @media (max-width: 684px) {
   blockquote {
