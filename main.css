@@ -503,7 +503,6 @@ a.button.wide {
 }
 .menu {
   background: #fafafa;
-  border-right: 1px solid;
   margin-right: 18px;
   z-index: 9999;
 }
@@ -599,7 +598,7 @@ body {
 }
 body.dark-theme {
   background-color: #292a2d;
-  color: #a9a9b3;
+  color: #e1e1e1;
 }
 h2,
 h3,
